@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    min-width: 100vw;
+    min-height: 200vh;
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+p {
+    flex-grow: 1;
+    width: 100%;
+    text-align: center;
+    color: #cccccc;
+}
+.btn {
+    padding: 15px 25px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.btn.active {
+    opacity: .5;
+}
+.container {
+    width: 500px;
+    border: solid 1px #cccccc;
+    padding: 60px;
+    height: 500px;
+}

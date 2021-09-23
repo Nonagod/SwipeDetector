@@ -1,14 +1,14 @@
 {
-  "name": "npm_module-tempalte",
+  "name": "@nonagod/SwipeDetector",
   "version": "0.0.0",
-  "description": "Шаблон npm пакета.",
+  "description": "Пакет предназначен для определения свайп движений в браузере.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Nonagod/SwipeDetector"
   },
   "author": {
     "name" : "Nonagod",

@@ -1,4 +1,4 @@
-const TARGET_FILE_NAME = 'scripts.min.js';
+const TARGET_FILE_NAME = 'libs.min.js';
 const TARGET_FOLDER_PATH = 'build';
 
 const SOURCE_FILE_PATH = 'src/index.js';

@@ -1,5 +1,5 @@
 /node_modules
 
-/build/scrips.min.js
+/build/libs.min.js
 
 package-lock.json
