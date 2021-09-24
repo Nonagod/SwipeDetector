@@ -1,6 +1,6 @@
 {
   "name": "@nonagod/swipe_detector",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Пакет предназначен для определения свайп движений в браузере.",
   "main": "src/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url" : "https://github.com/Nonagod"
   },
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^4.0.2",
     "webpack-stream": "^7.0.0"
   }
