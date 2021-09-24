@@ -1,5 +1,5 @@
 {
-  "name": "@nonagod/SwipeDetector",
+  "name": "@nonagod/swipe_detector",
   "version": "0.0.0",
   "description": "Пакет предназначен для определения свайп движений в браузере.",
   "main": "src/index.js",
