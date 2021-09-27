@@ -44,4 +44,4 @@ let SwipeDetectorObject = new NGSwipeDetector( options );
 Для использования класса возможно потребуются подключить полифилы.
 
 ___
-_Please, read about source code [there](_resources/readme_sources/)._
+_Please, read about source code [there](_resources/readme_sources/original_copyright.md)._
